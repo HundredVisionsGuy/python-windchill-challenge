@@ -1,15 +1,15 @@
-# WindchillCalculator.py
+# windchill_calculator.py
 A Python 3 Math challenge using unit tests.
 
 **Inputs:**
 ----------
-* **calculateWindchill()** receives two inputs (both integers):
+* **calculate_windchill()** receives two inputs (both integers):
   * receives wind as an integer (1st input) 
   * receives temperature as an integer (2nd input) 
 
 **Outputs:**
 ------------
-* **calculateWindchill()** returns 1 output (an integer):
+* **calculate_windchill()** returns 1 output (an integer):
     * this is the windchill temperature
 
 **Notes/Challenge Opportunity**
